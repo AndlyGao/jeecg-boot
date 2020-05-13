@@ -1,27 +1,11 @@
 
 
-
-
-
-
 Jeecg-Boot 快速开发平台（前后端分离版本）
 ===============
-
 当前最新版本： 2.1.4（发布日期：2020-02-24）
-
-
-[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
-[![](https://img.shields.io/badge/Author-JEECG团队-orange.svg)](http://www.jeecg.com)
-[![](https://img.shields.io/badge/version-2.1.4-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
-
-
 
 项目介绍：
 -----------------------------------
-
-<h3 align="center">Java RAD framework for enterprise web applications</h3>
 
 JeecgBoot 是一款基于代码生成器的J2EE快速开发平台！采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! JeecgBoot引领新的开发模式(Online Coding模式-> 代码生成器模式-> 手工MERGE智能开发)， 帮助解决Java项目70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性！JeecgBoot还独创在线开发模式（No代码概念）：在线表单配置（表单设计器）、移动配置能力、工作流配置（在线设计流程）、报表配置能力、在线图表配置、插件能力（可插拔）等等！
 
