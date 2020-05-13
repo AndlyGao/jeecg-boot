@@ -1,6 +1,6 @@
 
 
-![JEECG](https://static.oschina.net/uploads/img/201905/24164523_XDhg.png "JeecgBoot快速开发平台")
+
 
 
 
@@ -34,38 +34,6 @@ JEECG宗旨是: 简单功能由Online Coding配置实现（在线配置表单、
 -----------------------------------
 Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤其适合企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率70%以上，极大降低开发成本。
 
-
-
-技术文档
------------------------------------
-
-- 在线演示 ： [http://boot.jeecg.com](http://boot.jeecg.com)
-
-- 技术官网：  [http://www.jeecg.com](http://www.jeecg.com)
-
-- 开发文档：  [http://doc.jeecg.com](http://doc.jeecg.com/1273753)
-
-- 视频教程  ：[JeecgBoot入门系列视频](https://space.bilibili.com/454617261/channel/detail?cid=84186)
-
-- 常见问题：  [入门常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
-
-- 更新日志：  [版本日志](http://www.jeecg.com/#/doc/changelog)
-
-
-
-交流互动
------------------------------------
-
-- QQ交流群 ：  ②769925425、①284271917（满）
-
-- 反馈问题：  [反馈问题，请按格式发Issues](https://github.com/zhangdaiscott/jeecg-boot/issues/new)
-
-- 参与开源：  [欢迎加入JEECG开源团队，共同进步！！](http://www.jeecg.com/#/doc/canyu-os)
-
-- Online一分钟：  [1分钟快速学习](https://my.oschina.net/jeecg/blog/3083313)
-
-
-为什么选择JEECG-BOOT?
 -----------------------------------
 * 1.采用最新主流前后分离框架（Springboot+Mybatis+antd），容易上手; 代码生成器依赖性低,灵活的扩展能力，可灵活实现二次开发;
 * 2.开发效率很高,采用代码生成器，单表数据模型和一对多(父子表)数据模型，增删改查功能自动生成，菜单配置直接使用；
